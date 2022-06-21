@@ -1,0 +1,979 @@
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=65099_1
+	"SOFFICINI", frozen (kind of roll stuffed with cheese)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1142_2	"SOPRASSATA" (pork meat, salted, raw)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8030_1	ADUKI BEANS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8031_1	AGAR, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19002_2	ALCOHOL PURE (95% vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8035_1	ALFA ALFA SPROUTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3016_2	ALMOND BEVERAGE (prepared from recipe)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900503_1	ALMOND PASTE (prepared from recipe)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8808_2	ALMONDS, DRIED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=508_2	ALMONDS, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8802_2	ANACARDI
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1300_2	ANCHOVIES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1501_2	ANCHOVIES, canned in oil
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1502_2	ANCHOVIES, salted
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8634_2	ANONA OR CUSTARD-APPLE OR CHERIMOYA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9079_2	APPLE PUREE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8641_2	APPLES, ANNURCHE TYPE, whitout peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8647_2	APPLES, DEHYDRATED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8642_2	APPLES, DELICIOUS TYPE, without peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19047_2	APPLES, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8643_2	APPLES, GOLDEN TYPE, without peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8644_2	APPLES, GRANNY SMITH TYPE, without peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8645_2	APPLES, IMPERATORE TYPE, without peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8646_2	APPLES, RENETTE TYPE, without peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8807_2	APPLES, with peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=419_2	APPLES, without peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=401_2	APRICOTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8043_2	APRICOTS, canned in syrup
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8633_2	APRICOTS, DEHYDRATED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=500038_2	APRICOTS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=310_1	ARTICHOKE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100170_1	ARTICHOKE, canned in oil
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700105_1	ARTICHOKE, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700819_1	ARTICHOKE, pickled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700169_1	ARUGULA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100009_2	ASIAGO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700484_1	ASPARAGUS, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=305_1	ASPARAGUS, GREENHOUSE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=304_1	ASPARAGUS, WILD FROM FIELD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=303_1	ASPARAGUS, WILD FROM WOOD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=334_1	AUBERGINE or EGGPLANT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900616_1	AUBERGINE or EGGPLANT, canned in oil
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=999692_2	AVOCADO
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2000_1	BABA' WITH RHUM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=430_2	BABACO
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700447_2	BACON (pork meat, salted, smoked)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=406_2	BANANAS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4_1	BARLEY, PEARL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8001_1	BASIL, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8002_1	BASIL, ground dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=50399_1	BATATAS or SWEETPOTATOES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8004_1	BAY LEAF, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100_1	BEANS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100139_1	BEANS, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=202_1	BEANS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8705_2	BEEF MEAT, PRESSED (canned)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1904_2	BEEF TALLOW
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8661_2	BEEF, 15-18 MONTHS, "copertina di sotto, copertina di spalla, sottospalla", neck, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8662_2	BEEF, 15-18 MONTHS, "geretto anteriore e posteriore", without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8656_2	BEEF, 15-18 MONTHS, "girello", without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8657_2	BEEF, 15-18 MONTHS, "lombata", without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8658_2	BEEF, 15-18 MONTHS, "noce", without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8659_2	BEEF, 15-18 MONTHS, "scamone", without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8660_2	BEEF, 15-18 MONTHS, "sottofesa", without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8800_2	BEEF, 15-18 MONTHS, BACK CUTS, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1004_2	BEEF, 15-18 MONTHS, FAT AND LEAN MEAT, with visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1005_2	BEEF, 15-18 MONTHS, FAT MEAT, with visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8521_2	BEEF, 15-18 MONTHS, FATTY CUTS,without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8654_2	BEEF, 15-18 MONTHS, fesa, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8655_2	BEEF, 15-18 MONTHS, fillet, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8663_2	BEEF, 15-18 MONTHS, flank, "biancostato", brisket, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8653_2	BEEF, 15-18 MONTHS, fore rib, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8799_2	BEEF, 15-18 MONTHS, FRONT CUTS, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8522_2	BEEF, 15-18 MONTHS, LEAN AND FATTY CUTS, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8520_2	BEEF, 15-18 MONTHS, LEAN CUTS, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1003_2	BEEF, 15-18 MONTHS, LEAN MEAT, with visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8664_2	BEEF, 15-18 MONTHS, shoulder, muscle, "girello, fesone", without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805249_2	BEEF, BLOOD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1299_2	BEEF, BONE MARROW
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1201_2	BEEF, BRAIN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1100_2	BEEF, CANNED, jellied
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1203_2	BEEF, HEART
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1208_2	BEEF, KIDNEY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1204_2	BEEF, LIVER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1207_2	BEEF, LUNG
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1206_2	BEEF, SPLEEN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1205_2	BEEF, TONGUE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700342_2	BEEF, TONGUE, canned (prepared with species)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1209_2	BEEF, TRIPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8020_2	BEEF, VEAL, 4 MONTHS, FAT AND LEAN MEAT, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1006_2	BEEF, VEAL, 4 MONTHS, LEAN MEAT, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4001_2	BEER, LIGHT ALE (5.3 - 6.0 %vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8056_2	BEER, LIGHT ALE DOUBLE MALT (6.2 - 12.0 % vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8063_2	BEER, MILD or LIGHT (2.5 - 3.4 %vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8062_2	BEER, NON-ALCOHOLIC (0.3 - 0.5% vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=609024_2	BEER, STOUT (5.3 - 6.0 % vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8060_2	BEER, STOUT DOUBLE MALT (6.4 - 15.0 % vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9053_2	BEER, unspecified
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=306_1	BEETROOT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=81_1	BISCUITS or COOKIES, "SAVOIARDO"
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=71_1	BISCUITS or COOKIES, babyfood
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=10098_1	BISCUITS or COOKIES, coated with chocolate
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=450085_1	BISCUITS or COOKIES, plain
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=70_1	BISCUITS or COOKIES, semi-sweet
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=80_1	BISCUITS or COOKIES, wafers
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=701307_1	BISCUITS or COOKIES, wholemeal
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100144_1	BISCUITS or COOKIES, with butter
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100221_1	BISCUITS or COOKIES, with milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8061_2	BITTER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100184_2	BLACKBERRIES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=500025_2	BLACKCURRANTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1312_2	BLUE WITING
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=500021_2	BLUEBERRIES or BILBERRIES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8723_2	BOGUE or SEABREAM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8725_2	BOTTARGA, GREY MULLET, ROE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100010_2	BRA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4002_2	BRANDY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=600050_1	BREAD WHITE, COMMERCIALLY PREPARED (sandwich type)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=701337_1	BREAD, DURUM WHEATor SEMOLINA BREAD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=60088_1	BREAD, prepared with milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=34_1	BREAD, prepared with oil
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19055_1	BREAD, prepared with olives
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=30097_1	BREAD, RYE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=701016_1	BREAD, RYE, TOASTED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=666005_1	BREAD, SOYA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700019_1	BREAD, toasted
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805548_1	BREAD, WHEAT AND RYE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100154_1	BREAD, WHITE, plain
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=31_1	BREAD, WHITE, TYPE "0" (loaf=100g)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=32_1	BREAD, WHITE, TYPE "00" (loaf=50g)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=30_1	BREAD, WHITE, TYPE "1" (loaf&gt;500g)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100155_1	BREAD, WHITE, with added fats
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=33_1	BREAD, WHOLEMEAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=35_1	BREADCRUMBS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=20_1	BREAD-STICKS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19038_1	BREAD-STICKS, WHOLEMEAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=999057_1	BREAKFAST CEREALS, AGGREGATED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100061_2	BRESAOLA (lean beef meat, salted, raw)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=71787_2	BRIE CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=102_1	BROAD BEANS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=203_1	BROAD BEANS, dried, shelled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=314_1	BROCCOLI, GREEN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=309_1	BROCCOLI, PURPLE SPROUTING
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8816_2	BRONTE PISTACHIO NUT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900546_1	BROTH, prepared with chicken
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9040_1	BROTH, prepared with meat and vegetables
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900545_1	BROTH, prepared with mixed meat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9043_1	BROTH, prepared with soup cube
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=701358_1	BROTH, prepared with vegetables
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1309_2	BROWN SHRIMP
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=315_1	BRUSSELS SPROUTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900688_2	BURRATA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1701_2	BURRINI CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8745_2	BUTIRRO CALABRO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1900_2	BUTTER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=316_1	CABBAGE, JANUARY KING
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=317_1	CABBAGE, RED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1702_2	CACIOCAVALLO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700430_2	CACIOCAVALLO SMOKED CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8746_2	CACIORICOTTA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8795_2	CACIOTTA CHEESE, made with sheep and cow milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1703_2	CACIOTTA ROMANA CHEESE, made with sheep milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700432_2	CACIOTTA SMOKED CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1704_2	CACIOTTA TOSCANA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8796_2	CACIOTTINA CHEESE, made with cow milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8747_2	CACIOTTINA CHEESE, made with sheep and cow milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1705_2	CACIOTTINA FRESCA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2019_1	CAKE "MARGHERITA" (kind of cake, without frosting or filling, like sponge cake)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100230_1	CAKE with CHOCOLATE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2014_1	CAKES, COMMERCIALLY PREPARED, "sponge cake" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2016_1	CAKES, COMMERCIALLY PREPARED, filled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19048_1	CAKES, COMMERCIALLY PREPARED, with chocolate
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2015_1	CAKES, COMMERCIALLY PREPARED, with jam
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=71786_2	CAMEMBERT CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2001_1	CANDIED FRUITS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100188_1	CANDIED FRUITS, CITRON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100187_1	CANDIED FRUITS, ORANGE PEEL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=777010_1	CAPERS, pickled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3008_2	CARBONATED DRINK, COLA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=666009_2	CARBONATED DRINK, LIGHT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3007_2	CARBONATED DRINK, ORANGE FLAVOR
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3015_2	CARBONATED DRINK, SWEET SODA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=777021_2	CARBONATED DRINK, TONIC WATER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=311_1	CARDOON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8801_2	CAROB
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1305_2	CARP
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=312_1	CARROTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8737_2	CAT FISH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=313_1	CAULIFLOWER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1516_2	CAVIAR, STURGEON ROE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=344_1	CELERIAC
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=343_1	CELERY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100235_2	CHAMPAGNE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1706_2	CHEDDAR CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=407_2	CHERRIES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8071_2	CHERRIES, CANNED IN SYRUP
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=609027_2	CHERRY BRANDY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=503_2	CHESTNUTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8636_2	CHESTNUTS, BOILED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=504_2	CHESTNUTS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8635_2	CHESTNUTS, ROASTED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2012_1	CHEWING GUM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700082_1	CHICK PEAS, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=201_1	CHICK PEAS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8690_2	CHICKEN BREAST, without skin, cooked, pan fried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8689_2	CHICKEN, BREAST, without skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8685_2	CHICKEN, LEG-LOWER PART, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8687_2	CHICKEN, LEG-LOWER PART, with skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8686_2	CHICKEN, LEG-LOWER PART, without skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8688_2	CHICKEN, LEG-LOWER PART, without skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1294_2	CHICKEN, LIVER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1295_2	CHICKEN, OFFAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8691_2	CHICKEN, OVER LEG PART, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8693_2	CHICKEN, OVER LEG PART, with skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8692_2	CHICKEN, OVER LEG PART, without skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8694_2	CHICKEN, OVER LEG PART, without skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8677_2	CHICKEN, WHOLE, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8679_2	CHICKEN, WHOLE, with skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8681_2	CHICKEN, WHOLE, with skin, cooked, roasted from "rotisserie"
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8678_2	CHICKEN, WHOLE, without skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8680_2	CHICKEN, WHOLE, without skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8682_2	CHICKEN, WHOLE, without skin, cooked, roasted from "rotisserie"
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8683_2	CHICKEN, WING, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8684_2	CHICKEN, WING, with skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700285_2	CHICKEN, WING, without skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=319_1	CHICORY (for cooking)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100171_1	CHICORY, Catalonia type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=320_1	CHICORY, LOOSE LEAF
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=321_1	CHICORY, WITLOOF
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8006_1	CHIVES, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2008_1	CHOCOLATE AND HAZELNUT SPREAD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2007_1	CHOCOLATE, "Gianduia" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2006_1	CHOCOLATE, milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2005_1	CHOCOLATE, plain
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19014_1	CHOCOLATE, white
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=12985_1	CHOCOLATE, with nuts
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2027_1	CHOUX BUNS or CREAM PUFF
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8057_2	CIDER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100207_1	CINNAMON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1328_2	CLAMS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700832_2	CLAMS, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888025_2	COCOA BUTTER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3012_2	COCOA, sweetened, powder, soluble
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3000_2	COCOA, unsweetened, powder
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888028_2	COCONUT, MILK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=524_2	COCONUTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8055_2	COD LIVER OIL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1508_2	COD or HAKE, dried and salted
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1507_2	COD or HAKE, dried and salted, soaked in water
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1513_2	COD, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1512_2	COD, dried, soaked in water
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700012_2	COFFEE SUBSTITUTE, BARLEY GRAIN, beverage
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700010_2	COFFEE SUBSTITUTE, BARLEY GRAIN, powder
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9031_2	COFFEE, "ESPRESSO", beverage
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700796_2	COFFEE, "MOKA", beverage
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9030_2	COFFEE, American type, beverage
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700798_2	COFFEE, DECAFFEINATED, beverage
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700797_2	COFFEE, DECAFFEINATED, roasted, ground
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700795_2	COFFEE, grains, raw
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9033_2	COFFEE, INSTANT, beverage
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888001_2	COFFEE, INSTANT, DECAFFEINATED, powder
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=705153_2	COFFEE, INSTANT, powder
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9032_2	COFFEE, INSTANT,DECAFFEINATED, beverage
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3153_2	COFFEE, roasted, ground
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=10023_2	COGNAC
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=742070_1	CONE, WAFER FOR ICE CREAM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900104_1	CONFETTI SUGAR-COATED ALMOND
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9002_2	COOKED FRUIT, with sugar
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900067_2	COOKED FRUIT, without sugar
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=701302_1	COOKIES or BISCUITS, with COCONUT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1140_2	COPPA or CAPOCOLLO (pork meat, salted, raw)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8503_2	COPPA PARMA (pork meat, salted, raw)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8726_2	COREGONE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3_1	CORN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1101_2	CORNED BEEF, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9046_2	COTECHINO, pork meat, (BOILED AND PACKAGED), boiled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1143_2	COTECHINO, pork meat, (BOILED AND PACKAGED), raw
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100015_2	COTTAGE CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=349_1	COURGETTES or ZUCCHINI
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700418_2	CRAB
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=603017_2	CRAB, meat only, canned in brine, drained
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=79_1	CRACKERS, CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=78_1	CRACKERS, SALTED TOP
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=999073_1	CRACKERS, UNSALTED TOP
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19017_1	CRACKERS, WHITOUT FAT or FAT FREE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=60092_1	CRACKERS, WHOLEMEAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1141_2	CRACKLINGS (pork fat, lard)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=82_1	CRACOTTE (crispbread)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100097_2	CRAYFISH or CRAWFISH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1905_2	CREAM (20% fat)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1906_2	CREAM (30% fat)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1719_2	CREAM (35% fat)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8059_2	CREAM LIQUEURS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1909_2	CREAM, LOW CHOLESTEROL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700452_1	CREME CARAMEL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100011_2	CRESCENZA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19018_1	CRISPBREAD RYE, WHOLE GRAIN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=72_1	CROISSANT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900094_1	CROISSANT, CUSTARD FILLING
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900085_1	CROISSANT, JAM FILLING
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9070_2	CRUSTACEANS, unspecified
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=318_1	CUCUMBER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700125_1	CUCUMBER, canned in brine
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900606_1	CUCUMBER, pickled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888003_1	CUMIN SEEDS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100225_1	CUSTARD (prepared from recipe)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1320_2	CUTTLEFISH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100126_2	CUTTLEFISH, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8032_1	DAIKON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=505_2	DATES, DEGLET NOOR, dehydrated
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=606531_2	DATES, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888027_2	DATES, MEDJOOL, DEHYDRATED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1308_2	DENTEX
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1401_2	DENTEX, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1707_2	DOLCE VERDE CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8733_2	DORY, fillet
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1322_2	DOVER SOLE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1404_2	DOVER SOLE, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900077_2	DRIED FRUIT NS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9076_2	DRIED FRUIT OLEAGINEUS NS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9077_2	DRIED FRUIT, HIGH IN SUGAR NS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1080_2	DUCK, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100014_2	EDAM CHEESE, aged
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=61784_2	EDAM CHEESE, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8722_2	EEL, FARMED, fillets
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1301_2	EEL, FRESH WATER TYPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8724_2	EEL, LARGE EEL, "CAPITONE"
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1503_2	EEL, marinated (with wine or vinegar and spices)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1302_2	EEL, SALTED WATER TYPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1801_2	EGGS, CHICKEN, WHITE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1800_2	EGGS, CHICKEN, WHOLE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1806_2	EGGS, CHICKEN, WHOLE, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8750_2	EGGS, CHICKEN, WHOLE, hard-boiled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1802_2	EGGS, CHICKEN, YOLK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1803_2	EGGS, DUCK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1804_2	EGGS, GOOSE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1805_2	EGGS, TURKEY HEN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1708_2	EMMENTAL CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=330_1	ENDIVE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=602004_2	EUROPEAN LOBSTER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9071_2	EXOTIC FRUIT NS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8798_2	FALLOW DEER or BUCK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1628_2	FARINA LATTEA, GRAIN FLOUR AND MILK PROTEINS, BABYFOOD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9054_2	FARINA LATTEA, GRAIN FLOUR,  MILK PROTEINS, CEREALS AND FRUIT, BABYFOOD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8637_2	FEIJOA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=324_1	FENNEL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8007_1	FENNEL, SEEDS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805080_2	FETA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=409_2	FIGS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=506_2	FIGS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=507_2	FIGS, oven dried, with almond
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100185_2	FIGS, SUN DRIED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=701264_2	FINFISH, unspecified
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1709_2	FIOR DI LATTE CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=701003_1	FLAKES, BARLEY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700015_1	FLAKES, BRAN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19_1	FLAKES, CORN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=16_1	FLAKES, OAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700026_1	FLAKES, RICE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19061_1	FLAKY PASTRY or PUFF PASTRY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2002_1	FLAKY PASTRY ROLL, custard filling, or ECLAIRS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=14_1	FLOUR, BARLEY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805470_1	FLOUR, BUCKWHEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3100_2	FLOUR, CHESTNUT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700080_1	FLOUR, CHICK PEA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=999834_2	FLOUR, COCONUT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=13_1	FLOUR, CORN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19021_1	FLOUR, DURUM WHEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9_1	FLOUR, OAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=15_1	FLOUR, RICE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19022_1	FLOUR, RYE, dark
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=500003_1	FLOUR, RYE, mean
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=999024_1	FLOUR, SOYA, FULL FAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8034_1	FLOUR, SOYA, LOW FAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=11_1	FLOUR, WHEAT, TYPE 0
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=12_1	FLOUR, WHEAT, TYPE 00 (FINE GROUND)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=10_1	FLOUR, WHEAT, WHOLEMEAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=77_1	FOCACCIA (kind of pizza without cheese and tomatoes)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1710_2	FONTINA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1151_2	FRANKFURTERS o VIENNA SAUSAGES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8720_2	FRANKFURTERS o VIENNA SAUSAGES, cooked, pan fried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888004_2	FRANKFURTERS, CHICKEN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=701376_2	FRANKFURTERS, TURKEY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=101_1	FRENCH BEANS or GREEN BEANS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700483_1	FRENCH BEANS or GREEN BEANS, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9074_2	FRESH FRUIT NS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9072_2	FRESH SUMMER FRUIT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9073_2	FRESH WINTER FRUIT NS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1094_2	FROG
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2011_1	FROZEN DESSERTS, ICE POPS, orange
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9075_2	FRUIT COCKTAIL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900864_2	FRUIT COCKTAIL, canned in syrup
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9050_2	FRYING OIL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=21792_2	FULL FAT SOFT CHEESE (Philadelphia type)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=302_1	GARDEN CRESS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=301_1	GARLIC, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=603501_1	GARLIC, powder
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100054_1	GELATINE, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8736_2	GILTHEAD BREAM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8734_2	GILTHEAD BREAM, fillet, farmed
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1403_2	GILTHEAD BREAM, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888014_2	GIN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1089_2	GOOSE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900015_2	GORGONZOLA AND MASCARPONE, mixed CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1713_2	GORGONZOLA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900686_2	GORGONZOLA CHEESE WITH NUTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100018_2	GOUDA CHEESE, aged
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100017_2	GOUDA CHEESE, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1714_2	GRANA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100152_1	GRANITO DI TENERO" MEAL, WHEAT, FINE-GROUND
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=426_2	GRAPEFRUIT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888005_2	GRAPEFRUIT, pink
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=428_2	GRAPES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4003_2	GRAPPA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805788_2	GREENGAGES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1306_2	GREY MULLET
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100092_2	GROUPER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100093_2	GROUPER (other species)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1400_2	GROUPER, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1715_2	GROVIERA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8639_2	GUAVA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=600546_2	GUINEA-HEN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1085_2	GUINEA-HEN, BREAST
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8794_2	GUINEA-HEN, BREAST, without skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8790_2	GUINEA-HEN, LEG, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1086_2	GUINEA-HEN, LEG, without skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8792_2	GUINEA-HEN, LEG, without skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1313_2	HAKE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=5001_2	HAKE, COATED IN CRUMBS, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1402_2	HAKE, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8729_2	HAKE, frozen,  fillet
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8630_2	HAKE, frozen, cooked, microwave
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8629_2	HAKE, frozen, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=500019_2	HALIBUT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1147_2	HAM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19065_2	HAM, SMOKED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9066_2	HAM, SMOKED, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9007_2	HAM, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100045_2	HARE, LEG
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=511_2	HAZELNUTS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1087_2	HEN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100284_1	HERBS (LEAVES)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100286_1	HERBS (SEEDS)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8029_2	HERRING
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1505_2	HERRING, marinated (with wine or vinegar and species)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1506_2	HERRING, salted
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1504_2	HERRING, smoked
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2017_1	HONEY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1223_2	HORSE, HEART
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1224_2	HORSE, LIVER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1020_2	HORSE, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19032_1	ICE CREAM, CHOCOLATE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=12987_1	ICE CREAM, FRUIT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2010_1	ICE CREAM, MILK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8748_2	ITALICO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100191_1	JAM (apricot, fig, quince, peach, plum)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100192_1	JAM (sour cherry, cherry, grape)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805941_1	JAM, APRICOT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2013_1	JAM, MIXED FRUITS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100193_1	JAM, ORANGE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805951_1	JAM, PLUMS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9026_1	JAM, REDUCED SUGAR
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888029_2	JUICE, ACE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805914_2	JUICE, APPLE, unsweetened
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100201_2	JUICE, APRICOT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805614_1	JUICE, BEETROOT, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805605_1	JUICE, CARROT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3006_2	JUICE, FRUIT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9078_2	JUICE, FRUIT NS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=53021_2	JUICE, GRAPE, unsweetened
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8803_2	JUICE, GRAPE, unsweetened, with ascorbic acid
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100203_2	JUICE, GRAPEFRUIT, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=53020_2	JUICE, GRAPEFRUIT, sweetened
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805922_2	JUICE, GRAPEFRUIT, unsweetened
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=608533_2	JUICE, LEMON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=414_2	JUICE, LEMON, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900074_2	JUICE, ORANGE AND GRAPEFRUIT, unsweetened
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8026_2	JUICE, ORANGE, concentrated
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=405_2	JUICE, ORANGE, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9004_2	JUICE, ORANGE, unsweetened
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=53018_2	JUICE, PEACH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=500029_2	JUICE, PEAR
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805913_2	JUICE, PINEAPPLE, unsweetened
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=608532_2	JUICE, POMEGRANATE, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805671_1	JUICE, SPINACH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888007_2	JUICE, TANGERINE, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805929_2	JUICE, TANGERINE, unsweetened
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805698_1	JUICE, TOMATO
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19070_2	JUICE, TROPICAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1061_2	KID, whole
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=429_2	KIWI FRUITS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8787_2	LAMB, CUTLETS, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8788_2	LAMB, CUTLETS, without visible fat, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100034_2	LAMB, FAT AND LEAN MEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100035_2	LAMB, FAT MEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700499_2	LAMB, FAT MEAT, CUTLETS, with visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100033_2	LAMB, LEAN  MEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8797_2	LAMB, LEG, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8786_2	LAMB, LEG, without visible fat, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1262_2	LAMB, OFFAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1060_2	LAMB, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8754_2	LAMB, without visible fat, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1902_2	LARD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1716_2	LATTERIA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1310_2	LATTERINI, baby fish
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=337_1	LEEK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100215_1	LEMON GRANITA (iced lemon syrup)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=606512_2	LEMON, PEEL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=413_2	LEMONS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100140_1	LENTILS, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=204_1	LENTILS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=331_1	LETTUCE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100181_1	LETTUCE, "SCAROLA" TYPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=332_1	LETTUCE, BUTTERHEAD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=333_1	LETTUCE, LOOSELEAF
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100182_2	LIMES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9600_1	LINSEED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=12983_1	LIQUORICE ALLSORTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=423_2	LOQUATS or MEDLARS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=205_1	LUPINS, MATURE SEEDS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8640_2	LYCHEES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8804_2	MACADAMIA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1321_2	MACKEREL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1511_2	MACKEREL, canned in brine
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700384_2	MACKEREL, canned in oil
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=417_2	MANDARINE ORANGES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805867_2	MANGOES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900_2	MARGARINE (ANIMAL AND VEGETABLE FAT)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8069_2	MARGARINE VEGETABLE HARD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8028_2	MARGARINE VEGETABLE SPREADABLE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8010_1	MARJORAM, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4005_2	MARSALA ALL'UOVO (liqueur prepared with marsala wine and eggs)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4006_2	MARSALA WINE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1717_2	MASCARPONE CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3004_1	MAYONNAISE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8727_2	MEAGRE or CROAKER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=666011_1	MEAL SUBSTITUTES (DIET FOODS)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=17_1	MEAL, WHEAT DURUM or SEMOLINA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3014_1	MEAT EXTRACT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=73_1	MELBA TOAST
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700471_1	MELBA TOAST, FORTIFIED WITH VITAMINS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100149_1	MELBA TOAST, SWEET
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=60093_1	MELBA TOAST, WHOLEMEAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=421_2	MELON, CANTALOUPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=422_2	MELON, HONEYDEW
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900505_1	MERINGUE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100004_2	MILK, BUFFALO
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1611_2	MILK, CONCENTRATED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1603_2	MILK, COW, SEMI-SKIMMED PASTEURIZED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1621_2	MILK, COW, SEMI-SKIMMED, POWDER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700428_2	MILK, COW, SEMI-SKIMMED, UHT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100007_2	MILK, COW, SEMI-SKIMMED, VITAMINS FORTIFIED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1604_2	MILK, COW, SKIMMED PASTEURIZED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1622_2	MILK, COW, SKIMMED, POWDER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700429_2	MILK, COW, SKIMMED, UHT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1602_2	MILK, COW, WHOLE PASTEURIZED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1605_2	MILK, COW, WHOLE, CONDENSED, SWEETENED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1620_2	MILK, COW, WHOLE, POWDER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805018_2	MILK, COW, WHOLE, UHT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100006_2	MILK, COW, WHOLE, VITAMINS FORTIFIED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1600_2	MILK, GOAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1601_2	MILK, SHEEP
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700637_1	MILK, SOYA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8009_1	MINT, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8008_1	MINT, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8037_1	MISO
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9069_2	MOLLUSCS, unspecified
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100112_2	MONKFISH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100019_2	MONTASIO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1144_2	MORTADELLA (beef and pork meat)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1155_2	MORTADELLA (pork meat)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=11796_2	MOZZARELLA CHEESE, BUFFALO
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1718_2	MOZZARELLA CHEESE, COW
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=999050_1	MUESLI, SWISS TYPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100183_2	MULBERRIES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1326_2	MULLET
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8033_1	MUNG BEANS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=327_1	MUSHROOMS, "OVULI" TYPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=603551_1	MUSHROOMS, "PORCINELLI" TYPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=328_1	MUSHROOMS, "PORCINO" TYPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100173_1	MUSHROOMS, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100175_1	MUSHROOMS, canned in oil
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=603554_1	MUSHROOMS, CHANTERELLE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=603558_1	MUSHROOMS, CHANTERELLE, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=329_1	MUSHROOMS, COMMON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100174_1	MUSHROOMS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=603552_1	MUSHROOMS, HONEY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=603553_1	MUSHROOMS, MOREL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8036_1	MUSHROOMS, SHIITAKE, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1307_2	MUSSELS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100047_2	MUTTON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100040_2	MUTTON, FAT AND LEAN MEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100041_2	MUTTON, FAT MEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100039_2	MUTTON, LEAN MEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888008_1	NATTO
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700168_1	NETTLES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2020_1	NOUGAT, ALMOND
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100217_1	NUTMEG, ground
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=600009_1	OAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1316_2	OCTOPUS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100125_2	OCTOPUS, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700466_1	OLIVE PASTE or PATE'
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=592_1	OLIVES, black type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=590_1	OLIVES, green type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=591_1	OLIVES, in brine
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=322_1	ONIONS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805678_1	ONIONS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=702404_2	ORANGE, PEEL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=404_2	ORANGES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8012_1	OREGANO, dried ground
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8011_1	OREGANO, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8695_2	OSTRICH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8696_2	OSTRICH, COOKED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1314_2	OYSTER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100227_1	PAN DI SPAGNA (cake, type sponge cake)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1903_2	PANCETTA (pork meat, salted, raw)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19053_2	PANCETTA COPPATA (pork meat, salted, raw)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8502_2	PANCETTA TESA (pork meat, salted, raw)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8501_2	PANCETTA, LOW FAT (pork meat, salted, raw)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2018_1	PANETTONE (Christmas cake)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100218_1	PAPRIKA, powder
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1726_2	PARMIGIANO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8003_1	PARSLEY, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=338_1	PARSLEY, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100049_2	PARTRIDGE, LEG
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8649_2	PASSION FRUIT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=50_1	PASTA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=51_1	PASTA, dried, made with eggs
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900018_1	PASTA, fresh, made with eggs
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=60091_1	PASTA, WHOLEMEAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19010_1	PASTILLES or CANDIES, FRUIT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2003_1	PASTILLES or CANDIES, HARD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19012_1	PASTILLES or CANDIES, MINT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2004_1	PASTILLES or CANDIES, TOFFEE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1720_2	PASTORELLA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8707_2	PATE', LIVER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805874_2	PAW PAW, PAPAYAS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8809_2	PEACH, with peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=523_2	PEACHES, canned in syrup
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8651_2	PEACHES, DEHYDRATED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8652_2	PEACHES, DRIED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=425_2	PEACHES, without peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=606010_2	PEANUT BUTTER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=501_2	PEANUTS, raw
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=502_2	PEANUTS, roasted
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=701384_2	PEANUTS, roasted and salted
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8070_2	PEARS, CANNED IN SYRUP
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=424_2	PEARS, without peel
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=103_1	PEAS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100141_1	PEAS, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805712_1	PEAS, canned, drained
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=206_1	PEAS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100142_1	PEAS, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8648_2	PECAN NUTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1721_2	PECORINO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100020_2	PECORINO CHEESE, for grating
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=41789_2	PECORINO CHEESE, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100022_2	PECORINO ROMANO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8751_2	PECORINO SICILIANO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=999964_1	PEPPER, BLACK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=335_1	PEPPERS, CHILI, RED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100178_1	PEPPERS, pickled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=336_1	PEPPERS, SWEET type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100177_1	PEPPERS, YELLOW type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100106_2	PERCH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=415_2	PERSIMMONS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1084_2	PHAESANT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100048_2	PIGEON, old
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1090_2	PIGEON, young
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1311_2	PIKE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=602044_2	PILGRIM SCALLOP
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=512_2	PINE NUTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=403_2	PINEAPPLE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100196_2	PINEAPPLE, canned in syrup
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700607_2	PISTACHIO NUTS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700606_2	PISTACHIO NUTS, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=701109_2	PISTACHIO NUTS, roasted and salted
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=76_1	PIZZA with mozzarella and tomatoes
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=75_1	PIZZA with tomatoes
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=427_2	PLUMS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8072_2	PLUMS, CANNED IN SYRUP
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8806_2	PLUMS, red
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8805_2	PLUMS, yellow
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9005_1	POLENTA (porridge made with corn flour and salted water)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=418_2	POMEGRANATE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3009_1	POP CORN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1901_2	PORK FAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=31298_2	PORK, BLOOD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1040_2	PORK, FAT AND LEAN MEAT, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1041_2	PORK, FAT MEAT, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1243_2	PORK, HEART
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8675_2	PORK, HEAVY, "lombo", without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8674_2	PORK, HEAVY, leg, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8676_2	PORK, HEAVY, shoulder, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1044_2	PORK, LEAN, leg, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1043_2	PORK, LEAN, steak, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8670_2	PORK, LIGHT, "lombo", without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8671_2	PORK, LIGHT, "shoulder", without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8673_2	PORK, LIGHT, steak, without visible fat, cooked, pan fried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1244_2	PORK, LIVER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100242_2	PORT WINE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=382_1	POTATO CRIPS, PLAIN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100219_1	POTATO, POWDER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=381_1	POTATOES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=380_1	POTATOES, YOUNG or EARLY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=410_2	PRICKLY PEAR
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1711_2	PROCESSED CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1712_2	PROCESSED CHEESE, LOW FAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1799_2	PROCESSED CHEESE, PLAIN, SLICES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8713_2	PROSCIUTTO CRUDO (PORK MEAT, SALTED, RAW) "PARMA" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8712_2	PROSCIUTTO CRUDO (PORK MEAT, SALTED, RAW), mountain type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805309_2	PROSCIUTTO CRUDO (PORK MEAT, SALTED, RAW), SMOKED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9063_2	PROSCIUTTO CRUDO (PORK MEAT, SALTED, RAW), SMOKED, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9061_2	PROSCIUTTO CRUDO (PORK MEAT, SALTED, RAW), unspecified
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9062_2	PROSCIUTTO CRUDO (PORK MEAT, SALTED, RAW), unspecified, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8710_2	PROSCIUTTO CRUDO (PORK MEAT, SALTED, RAW, ONLY MEAT), boneless
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8711_2	PROSCIUTTO CRUDO (PORK MEAT, SALTED, RAW, ONLY MEAT), boneless, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8717_2	PROSCIUTTO CRUDO (PROK MEAT, SALTED, RAW), "GAMBUCCIO" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8714_2	PROSCIUTTO CRUDO (PROK MEAT, SALTED, RAW), "PARMA" type, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8715_2	PROSCIUTTO CRUDO (PROK MEAT, SALTED, RAW), "SAN DANIELE" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8716_2	PROSCIUTTO CRUDO (PROK MEAT, SALTED, RAW), "SAN DANIELE" type, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100289_2	PROVOLA CHEESE, smoked
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100024_2	PROVOLONCINO CHEESE, sweet
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1722_2	PROVOLONE CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100026_2	PROVOLONE CHEESE, hot
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=513_2	PRUNES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=800188_1	PUDDING, CHOCOLATE, ready-to-eat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19007_1	PUDDING, VANILLA, ready-to-eat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=325_1	PUMPKIN FLOWERS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=347_1	PUMPKIN or SQUASH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1093_2	QUAIL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=420_2	QUINCES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1082_2	RABBIT, FAT AND LEAN MEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1083_2	RABBIT, FAT MEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1081_2	RABBIT, LEAN MEAT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8668_2	RABBIT, LEG
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1284_2	RABBIT, OFFAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8666_2	RABBIT, WHOLE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8789_2	RABBIT, WHOLE, cooked
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8667_2	RABBIT, WHOLE, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=340_1	RADICCHIO, GREEN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=339_1	RADICCHIO, RED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=514_2	RAISINS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=412_2	RASPBERRIES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8735_2	RED BREAM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=342_1	RED RADISH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=500023_2	REDCURRANTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=712023_2	RHUM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=500010_1	RICE BROWN, raw
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700027_1	RICE KRISPIES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=800062_1	RICE SALAD (prepared from recipe)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=60089_1	RICE, WHITE PARBOILED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=5_1	RICE, WHITE, POLISHED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100029_2	RICOTTA CHEESE, German type, light
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100028_2	RICOTTA CHEESE, German type, whole
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8752_2	RICOTTA CHEESE, made from buffalo milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900689_2	RICOTTA CHEESE, made from cow and sheep milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=11793_2	RICOTTA CHEESE, made from cow milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1723_2	RICOTTA CHEESE, made from sheep milk
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100030_2	ROBIOLA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=605532_2	ROCHEFORT CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=600555_2	ROE DEER, BACK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=600554_2	ROE DEER, LEG
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8014_1	ROSEMARY, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8013_1	ROSEMARY, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8732_2	SADDLED BREAM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8019_1	SAFFRON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8016_1	SAGE, dried ground
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8015_1	SAGE, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9001_1	SALAD, unspecified
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8718_2	SALAMI "Brianza" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8504_2	SALAMI "Cacciatore" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8505_2	SALAMI "Fabriano" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8506_2	SALAMI "Felino" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1148_2	SALAMI "Milano" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=11198_2	SALAMI "Napoli" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8508_2	SALAMI "Nostrano" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8509_2	SALAMI "Ungherese" type
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100077_2	SALAMI, cooking
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100075_2	SALAMI, only pork meat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100074_2	SALAMI, pork and beef meat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8738_2	SALEMA OR STREPIE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700405_2	SALMON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1510_2	SALMON, canned in brine
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700407_2	SALMON, smoked
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=500013_1	SALSIFY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8021_1	SALT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1319_2	SARDINES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100137_2	SARDINES, canned in oil
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100136_2	SARDINES, salted
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100172_1	SAUERKRAUT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1152_2	SAUSAGES, LIVER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100078_2	SAUSAGES, PORK AND BEEF MEAT, raw
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1150_2	SAUSAGES, PORK MEAT, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1149_2	SAUSAGES, PORK MEAT, raw
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8719_2	SAUSAGES, PORK, raw, cooked, pan fried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8749_2	SCAD, HORSE MACKEREL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1724_2	SCAMORZA CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700435_2	SCAMORZA CHEESE, smoked
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8739_2	SCORPION FISH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1323_2	SEA BASS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8740_2	SEA BASS, FARMED, fillet
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8022_1	SEAWEED, IRISH MOSS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8024_1	SEAWEED, KOMBU, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8023_1	SEAWEED, NORI, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8025_1	SEAWEED, WAKAME, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19067_1	SHALLOTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1263_2	SHEEP, HEART
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1264_2	SHEEP, LIVER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8058_2	SHERRY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=300122_1	SHORTCRUST PASTRY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888009_1	SHOYU
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100122_2	SHRIMP or PRAWN, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1317_2	SKATE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1315_2	SMOOTH DOGFISH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1088_2	SNAIL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=602073_2	SNAIL, SEA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1700_2	SOFT CHEESE (BEL PAESE TYPE)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8054_2	SOFT CHEESE, LIGHT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3018_1	SOUP CUBE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=666010_1	SOUP CUBE, only VEGETABLE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=402_2	SOUR CHERRIES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=208_1	SOYA, SEEDS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=350_1	SOYA, SPROUTS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=702207_1	SOYA, STEAK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100244_2	SPARKLING WINE, DEMI-SEC
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100245_2	SPARKLING WINE, DRY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8791_2	SPARKLING WINE, HIGH ALCOHOL CONTENT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100243_2	SPARKLING WINE, SWEET
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700478_2	SPECK (pork meat, salted, raw)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=345_1	SPINACH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700487_1	SPINACH, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1303_2	SPINY LOBSTER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8626_2	SPINY LOBSTER, boiled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4000_2	SPIRITS (&lt;22% vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100232_2	SPIRITS (&gt;35% vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100231_2	SPIRITS (23-30% vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4004_2	SPIRITS (31-35%vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=323_1	SPRING ONIONS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=900612_1	SPRING ONIONS, pickled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1304_2	SQUID
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100121_2	SQUID, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3002_1	STARCH, POTATO
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100143_1	STARCH, unspecified
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1725_2	STRACCHINO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=411_2	STRAWBERRIES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8731_2	STRIPED BREAM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8741_2	STURGEON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2021_1	SUGAR
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805958_1	SUGAR, CANE, BROWN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888006_2	SURIMI (fish products)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8753_2	SWEET ALMOND OIL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9039_1	SWEETCORN, canned, drained
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=50086_1	SWEETCORN, raw
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=666006_1	SWEETENER, ASPARTAME
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=666007_1	SWEETENER, FRUCTOSE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=777013_1	SWEETENER, SACCHARIN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=666008_1	SWEETENER, SACCHARIN BASED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=307_1	SWISS CHARD
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700485_1	SWISS CHARD, canned
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100110_2	SWORDFISH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=53017_1	SYRUP, flavored for beverages
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888011_1	SYRUP, MALT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100031_2	TALEGGIO CHEESE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888010_1	TAMARI, SOYA SAUCE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=416_2	TANGERINES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=18_1	TAPIOCA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2009_1	TART, JAM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9034_2	TEA HERBAL, INFUSION
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700459_2	TEA, BEVERAGE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9029_2	TEA, BEVERAGE, decaffeinated
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3017_2	TEA, LEAVES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700460_2	TEA, LEAVES, decaffeinated
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8038_1	TEMPEH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1324_2	TENCH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100052_2	THRUSH
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8018_1	THYME, dried ground
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8017_1	THYME, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9047_1	TIRAMISU (dessert prepared from recipe)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888002_1	TOFU
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100180_1	TOMATO PUREE' (dry matter 18%)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100292_1	TOMATO PUREE' (dry matter 25%)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3001_1	TOMATO PUREE' (dry matter 30%)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=391_1	TOMATOES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19064_1	TOMATOES, canned in oil
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=392_1	TOMATOES, canned, whole contents
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700178_1	TOMATOES, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=390_1	TOMATOES, ripe
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=54_1	TORTELLINI, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=53_1	TORTELLINI, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1327_2	TROUT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8669_2	TROUT, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8744_2	TROUT, FROZEN, cooked, microwave
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8672_2	TROUT, frozen, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8742_2	TROUT, RAINBOW, FARMED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=346_1	TRUFFLE, black
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1325_2	TUNA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1515_2	TUNA, canned in brine, drained
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1514_2	TUNA, canned in oil, drained
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1318_2	TURBOT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1095_2	TURKEY HEN, BREAST, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1096_2	TURKEY HEN, LEG, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8784_2	TURKEY HEN, WHOLE, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8785_2	TURKEY HEN, WHOLE, without skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1097_2	TURKEY HEN, WING, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8697_2	TURKEY, BREAST, without skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8698_2	TURKEY, BREAST, without skin, cooked, pan fried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8699_2	TURKEY, LEG, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8701_2	TURKEY, LEG, with skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8700_2	TURKEY, LEG, without skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8702_2	TURKEY, LEG, without skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8703_2	TURKEY, OVER LEG, without skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8704_2	TURKEY, OVER LEG, without skin, cooked, oven
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1072_2	TURKEY, WING, with skin
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=341_1	TURNIP
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=308_1	TURNIP TOPS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=326_1	TURNIP, GREEN LEAVES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700415_2	UMBRINA, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19072_1	VALERIAN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=777015_1	VANILLA EXTRACT, with alcohol
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1202_2	VEAL, MIXED OFFAL
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=904_2	VEGETABLE OIL, COCONUT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=907_2	VEGETABLE OIL, CORN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9044_2	VEGETABLE OIL, CORN, VITAMINS FORTIFIED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=911_2	VEGETABLE OIL, GRAPESEED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=902_2	VEGETABLE OIL, MIXED SEEDS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=901_2	VEGETABLE OIL, OLIVE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=702901_2	VEGETABLE OIL, OLIVE, EXTRAVIRGIN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700608_2	VEGETABLE OIL, OLIVE, VITAMINS FORTIFIED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=908_2	VEGETABLE OIL, PALM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100166_2	VEGETABLE OIL, PEANUT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=905_2	VEGETABLE OIL, RAPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888026_2	VEGETABLE OIL, RAPE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=888015_2	VEGETABLE OIL, RICE
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=909_2	VEGETABLE OIL, SESAME
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=910_2	VEGETABLE OIL, SOYA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=906_2	VEGETABLE OIL, SUNFLOWERSEED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9023_2	VEGETABLE OIL, unspecified
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9068_2	VEGETABLE OIL, unspecified SEEDS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=805166_2	VEGETABLE OIL, WHEATGERM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=19073_1	VEGETABLES AND PULSES, MIXED, frozen
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9003_1	VEGETABLES, MIXED, canned in oil
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100176_1	VEGETABLES, MIXED, pickled
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8665_2	VENISON, without visible fat
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4008_2	VERMOUTH, DRY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4007_2	VERMOUTH, SWEET
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100205_1	VINEGAR
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700639_2	VODKA
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=510_2	WALNUTS, dried
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=509_2	WALNUTS, fresh
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=999999_2	WATER
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=400093_1	WATER CRESS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=408_2	WATERMELON
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=30039_1	WHEAT BRAN
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=700016_1	WHEAT CRUNCHIES
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=74_1	WHEAT GERM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=2_1	WHEAT, AESTIVUM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1_1	WHEAT, DURUM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4011_2	WHISKY
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=100115_2	WHITE BREAM
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4010_2	WINE, RED (13,5 %vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9701_2	WINE, RED, common (12 %vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=999905_2	WINE, ROSE'   (11 %vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9702_2	WINE, ROSE'   (12 %vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=4009_2	WINE, WHITE (13 %vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9700_2	WINE, WHITE, common (11.5 %vol)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=3003_1	YEAST, BAKERS, compressed
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8743_2	YOGHURT, GOATS
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1631_2	YOGHURT, PARTIALLY SKIMMED MILK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1632_2	YOGHURT, SKIMMED MILK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8027_2	YOGHURT, SKIMMED MILK, with FRUIT, sweetened
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9055_2	YOGHURT, SKIMMED MILK, with FRUIT, unsweetened
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1630_2	YOGHURT, WHOLE MILK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=9056_2	YOGHURT, WHOLE MILK, SWEETENED
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1633_2	YOGHURT, WHOLE MILK, SWEETENED, with FRUIT
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8053_2	YOGURT, GREEK
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=1153_2	ZAMPONE, pig feet (BOILED AND PACKAGED)
+http://www.bda-ieo.it/test/ComponentiAlimento.aspx?Lan=Eng&foodid=8721_2	ZAMPONE, pig feet (BOILED AND PACKAGED), boiled
